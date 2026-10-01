@@ -1,0 +1,5 @@
+sumber,asal,diambil_pada,jumlah_baris,keterangan
+trip,https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet,2026-10-01T11:38:48.638535+00:00,3066766,Parquet bulanan TLC
+zona,https://d37ci6vzurychx.cloudfront.net/misc/taxi_zone_lookup.csv,2026-10-01T11:38:48.638795+00:00,265,tabel dimensi 265 zona
+cuaca,https://archive-api.open-meteo.com/v1/archive,2026-10-01T11:38:49.594851+00:00,744,Open-Meteo hourly archive
+tarif_referensi,/content/lapisan_mentah/operasional.db,2026-10-01T11:39:08.561205+00:00,6,tabel dimensi dari basis data operasional
